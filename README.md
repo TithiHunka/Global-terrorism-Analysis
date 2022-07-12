@@ -10,7 +10,7 @@ The dataset contains the data of approximatly 1,80,000 terrorist attacks happend
 Dataset contains data of terrorism from 1970 to 2017.
 Include systomatic data on domestic as well as international terrorist incidents that have occoured during specific time period.
 
-
+![image]()
 
 # 3) Conclusions:
 1.   Inspite of all security measures taken by countries, No of attacks are increacing year by year, And in 2014(16903)it was highest.
