@@ -4,9 +4,9 @@ Terrorism is The calculated use of unlawful violence or threat of unlawful viole
 
 
 *   As a security/defence Analyst find out the hot zone of terrorism and derive some security issues.
-*   Perform Analyis on hostorical data available on terrorism and derive the insights from it also giving some suggestions so that the countries can control the harms from terrorism.
+*   Perform Analyis on historical data available on terrorism and derive the insights from it also giving some suggestions so that the countries can control the harms from terrorism.
 # 2) Data Description:
-The dataset contains the data of approximatly 1,80,000 terrorist attacks happend in all around the world.
+The dataset contains the data of approximately 1,80,000 terrorist attacks happened in all around the world.
 Dataset contains data of terrorism from 1970 to 2017.
 Include systomatic data on domestic as well as international terrorist incidents that have occoured during specific time period.
 
